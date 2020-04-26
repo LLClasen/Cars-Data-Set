@@ -8,6 +8,6 @@ This project analyzes a data set called “Cars” which provides information ab
 - PyCharm integrated development environment 
 
 ## Snippet
-The below chart gives an example of one of the analytical steps used to explore this data.<br/>
+The below chart gives an example of one of the analytical visualizations used to explore this data.<br/>
 <br/>
 <img src="https://i.imgur.com/DB4Ev96.png" title="Cars">
